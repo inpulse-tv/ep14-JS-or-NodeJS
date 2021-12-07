@@ -27,6 +27,7 @@ npm await
 ```
 Lance le script illustrant l'utilisation de la syntaxe ``async`` / ``await`` pour synchroniser les appels.
 
+
 N'hésitez pas à suivre les instructions de l'épisode sur notre chaîne [inpulse.tv](https://www.inpulse.tv).
 
 Bon visionage et à bientôt sur [inpulse.tv](https://www.inpulse.tv).
