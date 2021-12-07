@@ -7,7 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node helloworld.js",
-    "asyncronous": "node asynchronous-sample.js",
+    "asynchronous": "node asynchronous-sample.js",
     "await": "node await-sample.js"
   },
   "keywords": [],
