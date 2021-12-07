@@ -19,11 +19,11 @@ npm start
 ```
 Lance le script expliquant l'import d'un module dans Node.js et utlisant une saisie utilisateur via ``prompt-sync``.
 ```bash
-npm asynchronous
+npm run asynchronous
 ```
 Lance le script illustrant l'utilisation de l'Event Loop par Node.js pour traiter les demandes asynchrones.
 ```bash
-npm await
+npm run await
 ```
 Lance le script illustrant l'utilisation de la syntaxe ``async`` / ``await`` pour synchroniser les appels.
 
