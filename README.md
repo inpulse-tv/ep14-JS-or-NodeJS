@@ -9,6 +9,10 @@ Pour télécharger et installer le code source de l'épisode il suffit d'exécut
 ```bash
 git clone https://github.com/inpulse-tv/ep14-JS-or-NodeJS.git
 ```
+Installez ensuite les dépendances au projet en lançant la commande suivante dans votre terminal :
+```bash
+npm i
+```
 Vous avez ensuite le choix entre 3 codes sources différents correspondant aux 3 scripts présentés dans la vidéo. Vous pouvez exécuter chaque script en utilisant les commandes npm suivantes :
 ```bash
 npm start
